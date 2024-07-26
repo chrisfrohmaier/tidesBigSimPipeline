@@ -1,0 +1,15 @@
+{
+  "dataOutputBaseDir":"/data/cf5g09/tides/selfieBigSim/",
+
+  "qmost":{
+    "do":true,
+    "selfieRunID":453,
+    "selfieExportID":144,
+    "selfieSimTargetsURL":"https://4most.mpe.mpg.de/IWG2/data/selfie/iwg2_20240628_test_000453/iwg2_20240628_test/Period_1/SELFIE/qselfie_run1_targets.fits",
+    "selfieSimTilesURL":"https://4most.mpe.mpg.de/IWG2/data/selfie/iwg2_20240628_test_000453/iwg2_20240628_test/Period_1/SELFIE/qselfie_run1_tiles.fits",
+    "selfieSimFibresURL":"https://4most.mpe.mpg.de/IWG2/data/selfie/iwg2_20240628_test_000453/iwg2_20240628_test/Period_1/SELFIE/qselfie_run1_fibres.fits",
+    "qvpDataURL":"https://4most.mpe.mpg.de/IWG2/data/selfie/iwg2_20240628_test_000453/iwg2_20240628_test/Period_1/QVP/qmost_qvp_qvp1_tiles.fits",
+    "catQMOSTURL":"https://4most.mpe.mpg.de/IWG2/data/exports/qmost_20240626a_144/cat_qmost_20240626a_target.fits"
+  }
+
+}
