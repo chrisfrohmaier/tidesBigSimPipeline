@@ -132,8 +132,10 @@ if __name__ == '__main__':
         the_process.start()
         commandlineAnimate(the_process, 'Downloading, this make take a while (files are GBs in size)')
         the_process.join()
+    
+    updateConfigProgress(configFile, 'qmost')
 
-    ## Step 3: Process the simulation files to create the desired output
+    
 
     
 
