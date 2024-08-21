@@ -4,7 +4,7 @@ The output of this code will be a table/database that can be fed into the ETC to
 spectra of our objects.
 '''
 
-from astropy.table import Table, join
+from astropy.table import Table
 import pandas as pd
 import numpy as np
 import duckdb
