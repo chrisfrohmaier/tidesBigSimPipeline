@@ -16,9 +16,23 @@
     "completed":true
   },
   "etc":{
-      "completed":false
-    }
-
-
-
+      "completed":true
+    },
+  "join2LSST":{
+      "completed":true,
+      "lsstDBprefix":"baseline_3pt4"
+    },
+  "makePlots":{
+    "keyNumbers":true,
+    "nz":false,
+    "skyfootprint":{
+      "make":true,
+      "LSSTopsimDBFilePath":"/data/cf5g09/tides/OpSimSummary/baselineV3_simlibs/addedProposalTable/baseline_v3.4_10yrs.db"
+      },
+    "effFunRedshift":false,
+    "lsstEffFunRedshift": false,
+    "effFunMag":false,
+    "specTriPhase":false,
+    "nzGalaxy":false
+  }
 }
